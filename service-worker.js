@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/laughing-goggles/precache-manifest.0af0a292efb3e05e67f7d96aa403e21c.js"
+  "/laughing-goggles/precache-manifest.cec1bdd51fd0437bf78c721a8c05b70a.js"
 );
 
 self.addEventListener('message', (event) => {

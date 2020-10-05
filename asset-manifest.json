@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/laughing-goggles/static/css/main.e9a4bd33.chunk.css",
-    "main.js": "/laughing-goggles/static/js/main.42b50a57.chunk.js",
-    "main.js.map": "/laughing-goggles/static/js/main.42b50a57.chunk.js.map",
+    "main.js": "/laughing-goggles/static/js/main.683869f0.chunk.js",
+    "main.js.map": "/laughing-goggles/static/js/main.683869f0.chunk.js.map",
     "runtime-main.js": "/laughing-goggles/static/js/runtime-main.ae9ef6e4.js",
     "runtime-main.js.map": "/laughing-goggles/static/js/runtime-main.ae9ef6e4.js.map",
     "static/js/2.6ce3c036.chunk.js": "/laughing-goggles/static/js/2.6ce3c036.chunk.js",
     "static/js/2.6ce3c036.chunk.js.map": "/laughing-goggles/static/js/2.6ce3c036.chunk.js.map",
     "index.html": "/laughing-goggles/index.html",
-    "precache-manifest.0af0a292efb3e05e67f7d96aa403e21c.js": "/laughing-goggles/precache-manifest.0af0a292efb3e05e67f7d96aa403e21c.js",
+    "precache-manifest.cec1bdd51fd0437bf78c721a8c05b70a.js": "/laughing-goggles/precache-manifest.cec1bdd51fd0437bf78c721a8c05b70a.js",
     "service-worker.js": "/laughing-goggles/service-worker.js",
     "static/css/main.e9a4bd33.chunk.css.map": "/laughing-goggles/static/css/main.e9a4bd33.chunk.css.map",
     "static/js/2.6ce3c036.chunk.js.LICENSE.txt": "/laughing-goggles/static/js/2.6ce3c036.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ae9ef6e4.js",
     "static/js/2.6ce3c036.chunk.js",
     "static/css/main.e9a4bd33.chunk.css",
-    "static/js/main.42b50a57.chunk.js"
+    "static/js/main.683869f0.chunk.js"
   ]
 }
