@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9455b2ca87200b9c42e57b251158588",
+    "revision": "47f0bcb7782ba57496e1abe864f39bcb",
     "url": "/laughing-goggles/index.html"
   },
   {
-    "revision": "4107df268f82abeed388",
+    "revision": "213b4241772fbc31e790",
     "url": "/laughing-goggles/static/css/main.e9a4bd33.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/laughing-goggles/static/js/2.6ce3c036.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4107df268f82abeed388",
-    "url": "/laughing-goggles/static/js/main.ff0f11ea.chunk.js"
+    "revision": "213b4241772fbc31e790",
+    "url": "/laughing-goggles/static/js/main.040dbbd4.chunk.js"
   },
   {
     "revision": "ba97170cf6fba23c4416",
