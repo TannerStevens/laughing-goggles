@@ -28,7 +28,6 @@ export function Inventory(props) {
                 setInventoryList(bags.reduce((a,v)=>[...a, ...v.inventory], []))
             );
         }
-        setUpdate(false);
     }, [selectedCharacter, context.id, update]);
 
     return(
@@ -43,7 +42,7 @@ export function Inventory(props) {
                         <MenuItem key={v} value={v}>{v}</MenuItem>
                     )}
                 </Select>
-                <Button onClick={()=>setUpdate(true)}>Refresh</Button>
+                <Button onClick={()=>setUpdate(new Date())}>Refresh</Button>
             </div>
             <ItemList slots={inventoryList} />
         </div>
