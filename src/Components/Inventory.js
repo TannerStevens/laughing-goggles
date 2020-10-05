@@ -29,11 +29,7 @@ export function Inventory(props) {
             );
         }
         setUpdate(false);
-    }, [selectedCharacter, context.id]);
-
-    useEffect(()=>{
-        setSelectedCharacter(selectedCharacter);
-    }, [update]);
+    }, [selectedCharacter, context.id, update]);
 
     return(
         <div>
